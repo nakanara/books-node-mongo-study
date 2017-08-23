@@ -4,6 +4,14 @@
   "version": "0.0.1",
   "description": "Censors words out of text",
   "main": "censortext",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/nakanara/books-node-mongo-study/tree/master/ch03/censorify"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
   "dependencies": {},
   "engines": {
     "node":"*"
