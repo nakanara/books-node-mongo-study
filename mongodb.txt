@@ -1,0 +1,7 @@
+#시작
+mongod -dbpath d:\MongoDB\Server\3.4\data\db --auth
+
+#종료
+mongo
+use admin
+db.shutdownServer()
