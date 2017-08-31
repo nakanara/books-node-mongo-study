@@ -20,7 +20,9 @@ wordSchema.methods.startsWith = function(letter){
 };
 
 exports.wordSchema = wordSchema;
+/*
 console.log("Required Paths: ");
 console.log(wordSchema.requiredPaths());
 console.log("Indexes: ");
 console.log(wordSchema.indexes());
+*/
