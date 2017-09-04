@@ -14,3 +14,10 @@ npm install connect-mongo
 npm install cookie-parser
 npm install cookie-session
 npm install express-session
+
+-- ch 26.
+npm install connect-mongostore
+-- ch26 google
+npm install passport
+npm install passport-google
+npm install passport-google-oauth
